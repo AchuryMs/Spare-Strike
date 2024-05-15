@@ -1,0 +1,1 @@
+Authors: Miguel Sanchez, Nicolas Mora, Johan Piedrahita
